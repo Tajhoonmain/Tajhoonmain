@@ -75,6 +75,4 @@ Welcome to my GitHub! I'm an aspiring AI engineer and creative technologist pass
 - 🔗 [LinkedIn](https://www.linkedin.com/in/maryam--taj/)
 - 📫 Email: maryamtaj2005@yahoo.com
 
----
 
-### 🧠 *“Code with clarity, solve with purpose.”* — Maryam Taj
